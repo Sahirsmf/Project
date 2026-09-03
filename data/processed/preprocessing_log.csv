@@ -1,0 +1,5 @@
+stage,rows,columns,note
+Raw combined,1067371,9,Original rows from both Online Retail II sheets
+After duplicate removal,1055238,9,Removed 12133 exact duplicate rows
+After invalid-date handling,1055238,10,Removed 0 rows with invalid/missing dates
+Purchase-only modeling transactions,793609,11,Customer identified; non-cancellation; positive quantity; positive price
