@@ -174,4 +174,4 @@ The final report is stored in:
 
 | Member | Student ID |
 |---|---|
-| [Sahir Jawad Chowdhury] | [23301212] |
+| Sahir Jawad Chowdhury | 23301212 |
